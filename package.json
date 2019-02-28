@@ -1,5 +1,5 @@
 {
-  "name": "task-queue",
+  "name": "x-queue",
   "version": "0.2.1",
   "description": "deal with mutiple async tasks by concurrency",
   "main": "lib/index.js",
