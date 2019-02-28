@@ -1,6 +1,6 @@
 {
   "name": "ts-queue",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "deal with mutiple async tasks by concurrency",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
